@@ -1,0 +1,5 @@
+backend/venv/
+backend/workboard.db
+__pycache__/
+*.pyc
+.DS_Store
